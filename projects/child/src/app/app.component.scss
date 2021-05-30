@@ -1,0 +1,9 @@
+@import 'scss/_variables.scss';
+
+.child-outer {
+    align-items: $text-align;
+    justify-content: $text-align; 
+    text-align: $text-align;
+    width: $width;
+    color: $color;
+}
